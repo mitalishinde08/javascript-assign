@@ -85,7 +85,7 @@ for (i=1;i<1000;i++)
         sum = sum+i;
     }
 }
-console.log('The sum of multiuples of 3 and 5 is',sum)
+console.log('The sum of multiples of 3 and 5 is',sum)
 
 
 
