@@ -97,9 +97,9 @@ grade(45)
 
 function prime(lr,ur)
 {
-    if (lr<3)
+    if (lr<2)
     {
-        lr=3;
+        lr=2;
     }
     for(i=lr;i<=ur;i++)
     {
